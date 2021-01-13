@@ -1,0 +1,21 @@
+.container-mainContent {
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+    width: 100%;
+    height: 500px;
+    box-sizing: border-box;
+    /* border: 1px solid blue; */
+    background-color:#18191e;
+    
+}
+.image-mainContent {
+    width: 100%;
+    /* width: 1161.1px; */
+    height: 456px;
+    margin: 45px 0 0;
+    object-fit: contain;
+}

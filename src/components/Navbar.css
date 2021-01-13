@@ -1,0 +1,160 @@
+body {
+  background-color: #18191e;
+}
+.containerNavbar-navbar {
+    background-color: #0f0f13;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 25px;
+    /* width: 1440px; */
+    height: 60px;
+    /* padding: 13px 100px; */
+}
+
+.rightNavbar-navbar {
+    background-color: #0f0f13;
+    display: flex;
+    flex-direction: row;
+    
+}
+.leftNavbar-navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* border: 1px solid red; */
+  width: 150px;
+}
+
+
+
+.leftNavbarText-navbar {
+    width: 79px;
+    height: 16px;
+    /* margin: 10px 565px 8px 12px; */
+    opacity: 0.9;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: 1.43px;
+    color: #f7f8f7;
+    
+}
+.rightNavbarContentButton-navbar {
+    /* margin-right: 100px; */
+    margin-top: -5px;
+    /* border: 1px solid red */
+}
+
+.zellikler {
+    width: 72px;
+  height: 16px;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.14;
+  letter-spacing: 1.25px;
+  color: #c4c5c6;
+  text-decoration: none;
+}
+
+.Sektrler {
+    width: 71px;
+    height: 16px;
+    margin: 0 0 0 22px;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.14;
+    letter-spacing: 1.25px;
+    color: #c4c5c6;
+    text-decoration: none;
+
+  }
+
+  .Fiyatlar {
+    width: 58px;
+    height: 16px;
+    margin: 0 10px 0 22px;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.14;
+    letter-spacing: 1.25px;
+    color: #c4c5c6;
+    text-decoration: none;
+
+  }
+
+  .Blog {
+    width: 34px;
+    height: 16px;
+    margin: 0 20px 0 4px;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.14;
+    letter-spacing: 1.25px;
+    color: #c4c5c6;
+    text-decoration: none;
+
+  }
+  .button-navbar {
+    width: 60px;
+    height: 34px;
+    margin: 0 12px 0 17px;
+    padding: 9px 9px 9px 13px;
+    border-radius: 4px;
+    border: solid 1px #75797b;
+    background-color: transparent;
+    /* border: none; */
+    
+  }
+
+  .buttonBlue-navbar {
+    width: 88px;
+    height: 34px;
+    margin: 0 0 0 12px;
+    padding: 9px 10px 9px 14px;
+    border-radius: 4px;
+    background-color: #41aaf3;
+    border: none
+  }
+  .buttonText-navbar{
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.14;
+    letter-spacing: 1.25px;
+    color: #ffffff;
+    padding: 0;
+    margin: 0;
+  }
+  .buttonTextBlue-navbar {
+font-family: Inter;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.14;
+  letter-spacing: 1.25px;
+  text-align: center;
+  color: #ffffff;
+  padding: 0;
+  margin: 0;
+
+  }
